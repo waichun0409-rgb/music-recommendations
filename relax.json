@@ -3,10 +3,14 @@
     "title": "You're Just A Boy (And I'm Kinda The Man)",
     "artist": "Maisie Peters",
     "url": "https://www.youtube.com/watch?v=iQPeOAk6734&list=RDLJDr2kpkTMQ&index=2"
+    "imageUrl": "https://i.ytimg.com/vi/iQPeOAk6734/hqdefault.jpg",
+    "tags": ["心靈", "少女", "愛情"]
   },
   {
     "title": "Lost The Breakup",
     "artist": "Maisie Peters",
     "url": "https://www.youtube.com/watch?v=DwoovvtYf08&list=RDLJDr2kpkTMQ&index=3"
+    "imageUrl": "https://i.ytimg.com/vi/DwoovvtYf08/hqdefault.jpg",
+    "tags": ["心靈", "少女", "愛情"]
   }
 ]
