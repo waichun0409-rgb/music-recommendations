@@ -3,10 +3,14 @@
     "title": "夜空中最亮的星",
     "artist": "逃跑計劃",
     "url": "https://www.youtube.com/watch?v=Z3UuU6Wz1pE"
+    "imageUrl": "https://i.ytimg.com/vi/Z3UuU6Wz1pE/hqdefault.jpg",
+    "tags": ["抒情", "中文", "夜晚"]
   },
   {
     "title": "Pink Venom",
     "artist": "BLACKPINK",
     "url": "https://www.youtube.com/watch?v=gQlMMD8auMs"
+    "imageUrl": "https://i.ytimg.com/vi/Z3UuU6Wz1pE/hqdefault.jpg",
+    "tags": ["節奏", "少女", "KPOP"]
   }
 ]
