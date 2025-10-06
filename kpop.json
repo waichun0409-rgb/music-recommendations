@@ -3,10 +3,15 @@
     "title": "HOT SAUCE",
     "artist": "BABYMONSTER",
     "url": "https://www.youtube.com/watch?v=xn8mQqz2xmM&list=RDxn8mQqz2xmM&start_radio=1"
+    "imageUrl": "https://i.ytimg.com/vi/xn8mQqz2xmM/hqdefault.jpg",
+    "tags": ["活力", "少女", "KPOP"]
   },
   {
     "title": "Pink Venom",
     "artist": "BLACKPINK",
     "url": "https://www.youtube.com/watch?v=gQlMMD8auMs"
+        "imageUrl": "https://i.ytimg.com/vi/gQlMMD8auMs/hqdefault.jpg",
+    "tags": ["少女", "KPOP"]
+  },
   }
 ]
