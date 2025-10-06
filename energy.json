@@ -3,10 +3,14 @@
     "title": "Angels For Each Other",
     "artist": "Martin Garrix & Arijit Singh",
     "url": "https://www.youtube.com/watch?v=OTMQJ656r-M&list=RDOTMQJ656r-M&start_radio=1"
+    "imageUrl": "https://i.ytimg.com/vi/OTMQJ656r/hqdefault.jpg",
+    "tags": ["共情", "EDM", "+x"]
   },
   {
     "title": "Loop",
     "artist": "Martin Garrix, DallasK & Sasha Alex Sloan",
     "url": "https://www.youtube.com/watch?v=gQlMMD8auMs"
+    "imageUrl": "https://i.ytimg.com/vi/gQlMMD8auMs/hqdefault.jpg",
+    "tags": ["節奏", "EDM", "+x"]
   }
 ]
